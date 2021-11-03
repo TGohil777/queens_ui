@@ -34,7 +34,7 @@
     "reactcss": "^1.2.3",
     "redux-saga": "^1.0.5",
     "svg-inline-loader": "^0.8.0",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   },
   "repository": {
     "type": "git",
